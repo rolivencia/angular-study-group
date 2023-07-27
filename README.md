@@ -26,3 +26,43 @@ Por defecto, Angular hace uso de HTML y TypeScript para escribir el código de s
   - En caso de que cuentes con un correo electrónico estudiantil (dominio .edu), una opción de IDE es usar Jetbrains WebStorm.
 
 ## Currícula del grupo de estudio
+
+En esta primera entrega del grupo de estudio, nos centraremos en los siguientes temas a lo largo de cuatro encuentros:
+
+// TODO: Mejorar con documentación de La Cuentoneta.
+
+### Instalación de herramientas y creación de un proyecto de Angular
+1. Instalación de NodeJS. Uso de nvm
+2. Instalación de la CLI de Angular 16.
+3. Uso de Visual Studio Code para trabajar con Angular. Extensiones recomendadas.
+   1. John Papa
+   2. Oficiales
+4. Uso de la CLI para crear un nuevo proyecto de Angular.
+5. Estructura de un proyecto de Angular. Patrón de diseño MVVM.
+6. Uso de la CLI para crear componentes, servicios y otros _bloques de construcción_ de Angular.
+7. Alternativas para librerías y frameworks de CSS.
+   1. TailwindCSS.
+   2. Bootstrap vía ng-bootstrap.
+   3. Material Design vía Angular Material
+
+### Componentes y _data binding_
+1. Componentes basados en módulos y componentes standalone.
+2. Comunicación entre componentes.
+3. Componentes presentacionales y componentes _smart_.
+4. _Data binding_ unidireccional y bidireccional.
+5. _Data binding_ con _inputs_ y _outputs_.
+6. Nociones básicas de enrutamiento de componentes. Eager loading y lazy loading.
+
+### Templates, directivas de atributo y directivas estructurales
+1. Templates y _string interpolation_.
+2. Directivas de atributo: _property binding_ y _event binding_. 
+3. Directivas estructurales: *ngIf, *ngFor y *ngSwitch.
+4. Uso de ng-template y ng-container.
+
+### Servicios y _dependency injection_
+1. Crear un servicio. Agregar services como providers.
+2. Inyectar un servicio en un componente vía constructor y mediante la función inject.
+3. Comunicación entre componentes mediante servicios.
+4. Fetch a Web API mediante HttpClient.
+
+## Recursos para profundizar

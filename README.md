@@ -47,11 +47,12 @@ En esta primera entrega del grupo de estudio, nos centraremos en los siguientes 
 
 ### Componentes y _data binding_
 1. Componentes basados en módulos y componentes standalone.
-2. Comunicación entre componentes.
-3. Componentes presentacionales y componentes _smart_.
-4. _Data binding_ unidireccional y bidireccional.
-5. _Data binding_ con _inputs_ y _outputs_.
-6. Nociones básicas de enrutamiento de componentes. Eager loading y lazy loading.
+2. Inicialización de componentes y uso de _Lifecycle hooks_.
+3. Comunicación entre componentes.
+4. Componentes presentacionales y componentes _smart_.
+5. _Data binding_ unidireccional y bidireccional.
+6. _Data binding_ con _inputs_ y _outputs_.
+7. Nociones básicas de enrutamiento de componentes. Eager loading y lazy loading.
 
 ### Templates, directivas de atributo y directivas estructurales
 1. Templates y _string interpolation_.

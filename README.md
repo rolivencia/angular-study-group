@@ -1,4 +1,13 @@
-# Angular Study Group
+<div align="center" width="100%">
+    <h1>Angular Study Group</h1>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+        <img width="33%" alt="La Cuentoneta" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+    </picture>
+</div>
+
+---
+
 Recursos y material de estudio del Angular Study Group de FrontendCafé
 
 ## Objetivo del grupo

@@ -54,10 +54,10 @@ El resultado de los desarrollos del primer encuentro puede hallarse en la carpet
    1. Angular Language Service, oficial de Angular - https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
    2. Extensiones esenciales para Angular, de John Papa - https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
 6. Uso de la CLI para crear un nuevo proyecto de Angular.
-   1. Utilización de `ng new` para la creación de un nuevo proyecto. Explicación de los flags en los comandos soportados por la CLI de Angular.
+   1. [Utilización de `ng new`](https://angular.io/cli/new) para la creación de un nuevo proyecto. Explicación de los flags en los comandos soportados por la CLI de Angular.
 7. Estructura de un proyecto de Angular. Patrón de diseño MVVM.
 8. Uso de la CLI para crear componentes, servicios y otros _bloques de construcción_ de Angular.
-   1. Utilización de `ng generate component` para la creación de un nuevo componente standalone. Explicación de los flags en los comandos soporatdos por la CLI para `generate` 
+   1. [Utilización de `ng generate component`](https://angular.io/cli/generate) para la creación de un nuevo componente standalone. Explicación de los flags en los comandos soporatdos por la CLI para `generate` 
 9. Alternativas para librerías y frameworks de CSS.
    1. TailwindCSS.
    2. Bootstrap vía ng-bootstrap.

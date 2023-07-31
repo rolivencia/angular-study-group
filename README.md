@@ -48,7 +48,8 @@ El resultado de los desarrollos del primer encuentro puede hallarse en la carpet
    1. NVM para Windows: https://github.com/coreybutler/nvm-windows
    2. NVM para sistemas basados en POSIX (Linux/MacOS): https://github.com/nvm-sh/nvm 
 3. Instalación de la CLI de Angular 16.
-4. Uso de Visual Studio Code para trabajar con Angular. Extensiones recomendadas:
+   1. [Paso a paso en video, vía Loom](https://www.loom.com/share/3b663d55f20e43f4b20b7df4742d3316?sid=53d97de5-7b41-4ea5-bd24-3934daf7e6b8) 
+5. Uso de Visual Studio Code para trabajar con Angular. Extensiones recomendadas:
    1. Angular Language Service, oficial de Angular - https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
    2. Extensiones esenciales para Angular, de John Papa - https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
 6. Uso de la CLI para crear un nuevo proyecto de Angular.

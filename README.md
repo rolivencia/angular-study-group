@@ -92,4 +92,5 @@ El resultado de los desarrollos del primer encuentro puede hallarse en la carpet
 - Tutorial _Getting Started_ de la documentación oficial de Angular: [sitio web, en inglés](https://angular.io/start#getting-started-with-angular)
   
 ## Recursos para profundizar
-(por redactarse)
+- Projects in Angular, 3rd. ed., por Aristeidis Bampakos
+- Learning Angular, 4th ed., por Aristeidis Bampakos

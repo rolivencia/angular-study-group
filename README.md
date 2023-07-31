@@ -44,8 +44,6 @@ Como parte del primer encuentro del grupo de estudio, se lleva adelante una revi
 
 El resultado de los desarrollos del primer encuentro puede hallarse en la carpeta `clase-1` del presente repositorio.
 
-// TODO: Mejorar con documentación de La Cuentoneta.
-
 1. Instalación de NodeJS. Uso de nvm
    1. NVM para Windows: https://github.com/coreybutler/nvm-windows
    2. NVM para sistemas basados en POSIX (Linux/MacOS): https://github.com/nvm-sh/nvm 
@@ -55,6 +53,7 @@ El resultado de los desarrollos del primer encuentro puede hallarse en la carpet
    2. Extensiones esenciales para Angular, de John Papa - https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
 6. Uso de la CLI para crear un nuevo proyecto de Angular.
    1. [Utilización de `ng new`](https://angular.io/cli/new) para la creación de un nuevo proyecto. Explicación de los flags en los comandos soportados por la CLI de Angular.
+   2. [Paso a paso en video, vía Loom](https://www.loom.com/share/4a33bf2b078547fd8a30b51e71057bb1?sid=25be88ff-b799-408c-bd69-e9361af25f41).
 7. Estructura de un proyecto de Angular. Patrón de diseño MVVM.
 8. Uso de la CLI para crear componentes, servicios y otros _bloques de construcción_ de Angular.
    1. [Utilización de `ng generate component`](https://angular.io/cli/generate) para la creación de un nuevo componente standalone. Explicación de los flags en los comandos soporatdos por la CLI para `generate` 

@@ -1,8 +1,8 @@
 <div align="center" width="100%">
     <h1>Angular Study Group</h1>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
-        <img width="33%" alt="La Cuentoneta" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rolivencia/angular-study-group/assets/32349705/f69e9fcd-1705-4931-a4eb-7a1a768bd5e6">
+        <img width="33%" alt="La Cuentoneta" src="https://github.com/rolivencia/angular-study-group/assets/32349705/afc1cea9-e94a-4eaa-a52a-d49dee0cc529">
     </picture>
 </div>
 

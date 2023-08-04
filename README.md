@@ -55,6 +55,7 @@ El resultado de los desarrollos del primer encuentro puede hallarse en la carpet
 6. Uso de la CLI para crear un nuevo proyecto de Angular.
    1. [Utilización de `ng new`](https://angular.io/cli/new) para la creación de un nuevo proyecto. Explicación de los flags en los comandos soportados por la CLI de Angular.
    2. [Paso a paso en video, vía Loom](https://www.loom.com/share/4a33bf2b078547fd8a30b51e71057bb1?sid=25be88ff-b799-408c-bd69-e9361af25f41).
+   3. [Estructura de un proyecto nuevo de Angular, en modo standalone](https://www.loom.com/share/3fe0c1d1f16a4b70a22375b007a05b45).
 7. Estructura de un proyecto de Angular. Patrón de diseño MVVM.
 8. Uso de la CLI para crear componentes, servicios y otros _bloques de construcción_ de Angular.
    1. [Utilización de `ng generate component`](https://angular.io/cli/generate) para la creación de un nuevo componente standalone. Explicación de los flags en los comandos soporatdos por la CLI para `generate` 

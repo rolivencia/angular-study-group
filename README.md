@@ -79,6 +79,11 @@ El resultado de los desarrollos del primer encuentro puede hallarse en la carpet
 3. Directivas estructurales: *ngIf, *ngFor y *ngSwitch.
 4. Uso de ng-template y ng-container.
 
+#### Recursos
+* ngIf: [artículo en Angular University, en inglés](https://blog.angular-university.io/angular-ngif/)
+* ngFor: [artículo en Angular University, en inglés](https://blog.angular-university.io/angular-2-ngfor/)
+* ngTemplate, ngContainer y ngTemplateOutlet: [artículo en Angular University, en inglés](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
+
 ### Servicios y _dependency injection_
 1. Crear un servicio. Agregar services como providers.
 2. Inyectar un servicio en un componente vía constructor y mediante la función inject.
@@ -91,6 +96,7 @@ El resultado de los desarrollos del primer encuentro puede hallarse en la carpet
 - Curso de TypeScript, por OpenBootcamp: [playlist de videos en YouTube](https://www.youtube.com/watch?v=RI7j5bicTEw&list=PLkVpKYNT_U9egW5padLMHmnTPb6xm4hLf&index=2)
 - TypeScript in 50 Lessons, de Stefan Baumgartner: [libro en formato PDF, en inglés](https://www.smashingmagazine.com/provide/eBooks/typescript-in-50-lessons.pdf)
 - Tutorial _Getting Started_ de la documentación oficial de Angular: [sitio web, en inglés](https://angular.io/start#getting-started-with-angular)
+- "Angular for Beginners", por Angular University: [curso gratuito en línea](https://angular-university.io/course/getting-started-with-angular2?utm=blmfc)
   
 ## Recursos para profundizar
 - Projects in Angular, 3rd. ed., por Aristeidis Bampakos

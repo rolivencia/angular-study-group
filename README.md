@@ -76,7 +76,7 @@ El resultado de los desarrollos del primer encuentro puede hallarse en la carpet
 ### Templates, directivas de atributo y directivas estructurales
 1. Templates y _string interpolation_.
 2. Directivas de atributo: _property binding_ y _event binding_. 
-3. Directivas estructurales: *ngIf, *ngFor y *ngSwitch.
+3. Directivas estructurales: *ngIf, *ngFor y *ngTemplateOutlet.
 4. Uso de ng-template y ng-container.
 
 #### Recursos

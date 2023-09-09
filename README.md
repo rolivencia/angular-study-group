@@ -97,7 +97,9 @@ El resultado de los desarrollos del primer encuentro puede hallarse en la carpet
 - TypeScript in 50 Lessons, de Stefan Baumgartner: [libro en formato PDF, en inglés](https://www.smashingmagazine.com/provide/eBooks/typescript-in-50-lessons.pdf)
 - Tutorial _Getting Started_ de la documentación oficial de Angular: [sitio web, en inglés](https://angular.io/start#getting-started-with-angular)
 - "Angular for Beginners", por Angular University: [curso gratuito en línea](https://angular-university.io/course/getting-started-with-angular2?utm=blmfc)
+- Google Developer Course with Angular, por SoloLearn: [curso gratuito en línea](https://www.sololearn.com/learn/courses/angular)
   
 ## Recursos para profundizar
 - Projects in Angular, 3rd. ed., por Aristeidis Bampakos
 - Learning Angular, 4th ed., por Aristeidis Bampakos
+- Tutoriales para Angular en Codelabs, por Google: [website, en inglés](https://codelabs.developers.google.com/?text=Angular)

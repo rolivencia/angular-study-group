@@ -16,7 +16,7 @@ Recursos y material de estudio del Angular Study Group de FrontendCafé
 
 ## Metodología
 
-Nos reuniremos semanalmente en el canal `🔮 | angular-study-group` del servidor de FrontendCafé los días sábados, en el horario de 11:00 a 12:30 (GMT-3).
+Nos reuniremos semanalmente en el canal `🔮 | angular-study-group` del servidor de FrontendCafé los días miércoles, en el horario de 20:00 a 21:30 (GMT-3).
 
 ## Conocimientos previos
 Si bien este grupo de estudio está orientado a principiantes en Angular, es recomendable tener nociones básicas de HTML, CSS, JavaScript y TypeScript.

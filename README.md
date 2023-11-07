@@ -36,7 +36,7 @@ Por defecto, Angular hace uso de HTML y TypeScript para escribir el código de s
 
 ## Currícula del grupo de estudio
 
-En esta primera entrega del grupo de estudio, nos centraremos en los siguientes temas a lo largo de cuatro encuentros, desarrollando una aplicación completa en el camino, a la cual denominaremos `Home Rentals` y será una aplicación web de alquileres, con las etapas de desarrollo de la misma basadas en el proyecto de ecommerce propuesto en los [tutoriales de la documentación oficial de Angular](https://angular.io/tutorial/first-app).
+En esta primera entrega del grupo de estudio, nos centraremos en los siguientes temas a lo largo de cuatro encuentros, desarrollando una aplicación completa en el camino, a la cual denominaremos `Home Rentals` y será una aplicación web de alquileres, con las etapas de desarrollo de la misma basadas en el proyecto de ecommerce propuesto en los [tutoriales de la documentación oficial de Angular]([https://angular.io/tutorial/first-app](https://angular.dev/)).
 
 ### Encuentro 1: Instalación de herramientas y creación de un proyecto de Angular
 

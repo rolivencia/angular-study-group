@@ -90,6 +90,17 @@ El resultado de los desarrollos del primer encuentro puede hallarse en la carpet
 3. Comunicación entre componentes mediante servicios.
 4. Fetch a Web API mediante HttpClient.
 
+### Videos de clases anteriores
+
+- [Clase 1](https://www.youtube.com/watch?v=MMfv1Y7c-yU)
+- [Clase 2](https://www.youtube.com/watch?v=k2nV4WZCLJk)
+- [Clase 3](https://www.youtube.com/watch?v=ZlekTv_Xnp8)
+- [Clase 4](https://www.youtube.com/watch?v=WjJjlSX1Yh4)
+- [Clase 5](https://www.youtube.com/watch?v=3iJTHXHvW3w)
+- [Clase 6](https://www.youtube.com/watch?v=W_oVD1Ex2D0)
+- [Clase 7](https://www.youtube.com/watch?v=Gzv5tyBLdJI)
+- [Clase 8](https://www.youtube.com/watch?v=dHFyeno30V4)
+
 ## Recursos para iniciarse
 - Tabla de atajos en Angular, por DevTalles: [carilla en formato PDF](https://devtalles.com/files/angular-cheat-sheet.pdf)
 - TypeScript: Guía completa y manual de mano, por Fernando Herrera: [playlist de videos en YouTube](https://www.youtube.com/watch?v=FufR-Vailzk&list=PLCKuOXG0bPi2J-C0WPRZdHTG6pareIvV2&ab_channel=FernandoHerrera).

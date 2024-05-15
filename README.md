@@ -25,11 +25,11 @@ Por defecto, Angular hace uso de HTML y TypeScript para escribir el código de s
 
 ## Qué necesitamos para empezar?
 
-- NodeJS, versión 16 en adelante.
-  - Se requiere como mínimo esta versión para trabajar con Angular versión 16, la cual utilizaremos durante los encuentros del grupo de estudio.
+- NodeJS, versión 18 en adelante.
+  - Se requiere como mínimo esta versión para trabajar con Angular versión 17.3.x, la cual utilizaremos durante los encuentros del grupo de estudio.
   - Se recomienda utilizar NodeJS versión 18 o cualquier versión LTS superior.
-- La CLI de Angular (interfaz de línea de comandos), en su versión 16.x
-  - Utilizaremos Angular en su versión 16 para los encuentros de este grupo de estudio
+- La CLI de Angular (interfaz de línea de comandos), en su versión 17.3.x
+  - Utilizaremos Angular en su versión 17.3.x para los encuentros de este grupo de estudio
 - Un editor de código o de texto, o bien un entorno integrado de desarrollo (IDE).
   - Recomendamos el uso de Visual Studio Code, dados los _plugins_ disponibles para trabajar con Angular.
   - En caso de que cuentes con un correo electrónico estudiantil (dominio .edu), una opción de IDE es usar Jetbrains WebStorm.

@@ -33,8 +33,21 @@ Por defecto, Angular hace uso de HTML y TypeScript para escribir el código de s
 - Un editor de código o de texto, o bien un entorno integrado de desarrollo (IDE).
   - Recomendamos el uso de Visual Studio Code, dados los _plugins_ disponibles para trabajar con Angular.
   - En caso de que cuentes con un correo electrónico estudiantil (dominio .edu), una opción de IDE es usar Jetbrains WebStorm.
+ 
+## Currícula del grupo de estudio - Temporada #2
 
-## Currícula del grupo de estudio
+En la segunda temporada nos enfocaremos en seguir el segundo tutorial disponible en angular.dev, mediante el cual desarrollaremos una aplicación completa desde cero repasando todos los conceptos básicos y herramientas que hacen alf framework. El tutorial está disponible para consultarse en https://angular.dev/tutorials/first-app
+
+### Encuentro 1: Presentación del tutorial y desarrollo de los primeros componentes
+* Introducción.
+* Hello world! - Generando nuestra aplicación.
+* Creación de `HomeComponent`.
+* Creación de `HouseLocationComponent`.
+  
+#### Challenge:
+* Estrategias para el desarrollo de un componente navbar
+
+## Currícula del grupo de estudio - Temporada #1
 
 En esta primera entrega del grupo de estudio, nos centraremos en los siguientes temas a lo largo de cuatro encuentros, desarrollando una aplicación completa en el camino, a la cual denominaremos `Home Rentals` y será una aplicación web de alquileres, con las etapas de desarrollo de la misma basadas en el proyecto de ecommerce propuesto en los [tutoriales de la documentación oficial de Angular]([https://angular.io/tutorial/first-app](https://angular.dev/)).
 
@@ -47,7 +60,7 @@ El resultado de los desarrollos del primer encuentro puede hallarse en la carpet
 1. Instalación de NodeJS. Uso de nvm
    1. NVM para Windows: https://github.com/coreybutler/nvm-windows
    2. NVM para sistemas basados en POSIX (Linux/MacOS): https://github.com/nvm-sh/nvm 
-3. Instalación de la CLI de Angular 16.
+3. Instalación de la CLI de Angular, aplicable a cualquier versión. Para este grupo de estudio usaremos la versión 17.3.
    1. [Paso a paso en video, vía Loom](https://www.loom.com/share/3b663d55f20e43f4b20b7df4742d3316?sid=53d97de5-7b41-4ea5-bd24-3934daf7e6b8) 
 5. Uso de Visual Studio Code para trabajar con Angular. Extensiones recomendadas:
    1. Angular Language Service, oficial de Angular - https://marketplace.visualstudio.com/items?itemName=Angular.ng-template

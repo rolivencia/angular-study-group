@@ -43,6 +43,9 @@ En la segunda temporada nos enfocaremos en seguir el segundo tutorial disponible
 * Hello world! - Generando nuestra aplicación.
 * Creación de `HomeComponent`.
 * Creación de `HouseLocationComponent`.
+
+#### Grabación del encuentro en YouTube: https://www.youtube.com/watch?v=dC9_GYeinHc&list=PLBLth4FFZghvoKAtlWGgsEPtyEIYWZRr9
+#### Challenge #1: https://github.com/rolivencia/angular-study-group/blob/main/temporada-2/challenge-1.md
   
 #### Challenge:
 * Estrategias para el desarrollo de un componente navbar
